@@ -160,7 +160,7 @@
     "nombre": "Micrófono USB Blue Yeti",
     "descripcion": "Condensador, 4 patrones polares, ideal para streaming",
     "precio": 2800.00,
-    "imagen": "./img/",
+    "imagen": "./img/Micrófono_USB_Blue_Yeti.jpg",
     "categoria": {
       "id": 2,
       "nombre": "Audio",
@@ -173,7 +173,7 @@
     "nombre": "Router TP-Link Archer AX50",
     "descripcion": "WiFi 6 dual band, hasta 3000 Mbps, 4 antenas",
     "precio": 1899.00,
-    "imagen": "./img/",
+    "imagen": "./img/Router_TP-Link_Archer_AX50.jpg",
     "categoria": {
       "id": 7,
       "nombre": "Redes",
@@ -186,7 +186,7 @@
     "nombre": "Impresora Multifuncional HP DeskJet 2720",
     "descripcion": "WiFi, imprime, escanea y copia, compatible con app móvil",
     "precio": 1650.00,
-    "imagen": "./img/",
+    "imagen": "./img/Impresora_Multifuncional_HP_DeskJet_2720.jpg",
     "categoria": {
       "id": 8,
       "nombre": "Oficina",
