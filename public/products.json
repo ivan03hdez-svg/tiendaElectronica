@@ -63,5 +63,135 @@
       "descripcion": "Accesorios para computadoras"
     },
     "stock": 18
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Gamer Logitech G502",
+    "descripcion": "Sensor HERO 25K, 11 botones programables, pesos ajustables",
+    "precio": 1150.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 4,
+      "nombre": "Periféricos",
+      "descripcion": "Accesorios para computadoras"
+    },
+    "stock": 22
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor LG UltraWide 29''",
+    "descripcion": "IPS Full HD 2560x1080, 75Hz, HDR10, FreeSync",
+    "precio": 4500.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos electrónicos y de cómputo"
+    },
+    "stock": 8
+  },
+  {
+    "id": 8,
+    "nombre": "Bocina Portátil Sony SRS-XB23",
+    "descripcion": "Bluetooth 5.0, resistente al agua IP67, 12h de batería",
+    "precio": 1499.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 2,
+      "nombre": "Audio",
+      "descripcion": "Accesorios y equipos de sonido"
+    },
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "nombre": "Tablet Samsung Galaxy Tab S9",
+    "descripcion": "11'' AMOLED, Snapdragon 8 Gen 2, 128GB, S Pen incluido",
+    "precio": 9500.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos electrónicos y de cómputo"
+    },
+    "stock": 12
+  },
+  {
+    "id": 10,
+    "nombre": "Webcam Logitech C920",
+    "descripcion": "Full HD 1080p, enfoque automático, micrófono estéreo",
+    "precio": 1350.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 4,
+      "nombre": "Periféricos",
+      "descripcion": "Accesorios para computadoras"
+    },
+    "stock": 14
+  },
+  {
+    "id": 11,
+    "nombre": "Disco Duro Externo Seagate 2TB",
+    "descripcion": "USB 3.0, portátil, compatible con PC y Mac",
+    "precio": 1250.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 5,
+      "nombre": "Almacenamiento",
+      "descripcion": "Dispositivos de almacenamiento de datos"
+    },
+    "stock": 35
+  },
+  {
+    "id": 12,
+    "nombre": "Cargador Inalámbrico Anker",
+    "descripcion": "15W carga rápida, compatible con iPhone y Samsung",
+    "precio": 450.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 6,
+      "nombre": "Accesorios",
+      "descripcion": "Accesorios varios para dispositivos"
+    },
+    "stock": 40
+  },
+  {
+    "id": 13,
+    "nombre": "Micrófono USB Blue Yeti",
+    "descripcion": "Condensador, 4 patrones polares, ideal para streaming",
+    "precio": 2800.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 2,
+      "nombre": "Audio",
+      "descripcion": "Accesorios y equipos de sonido"
+    },
+    "stock": 10
+  },
+  {
+    "id": 14,
+    "nombre": "Router TP-Link Archer AX50",
+    "descripcion": "WiFi 6 dual band, hasta 3000 Mbps, 4 antenas",
+    "precio": 1899.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 7,
+      "nombre": "Redes",
+      "descripcion": "Equipos de conectividad y redes"
+    },
+    "stock": 16
+  },
+  {
+    "id": 15,
+    "nombre": "Impresora Multifuncional HP DeskJet 2720",
+    "descripcion": "WiFi, imprime, escanea y copia, compatible con app móvil",
+    "precio": 1650.00,
+    "imagen": "./img/",
+    "categoria": {
+      "id": 8,
+      "nombre": "Oficina",
+      "descripcion": "Equipos y accesorios de oficina"
+    },
+    "stock": 11
   }
 ]
