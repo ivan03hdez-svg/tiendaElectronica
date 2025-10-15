@@ -17,7 +17,7 @@
     "nombre": "Smartphone Samsung Galaxy A15",
     "descripcion": "Pantalla AMOLED 6.5'', 128GB ROM, 8GB RAM, Android 14",
     "precio": 6500.00,
-    "imagen": "",
+    "imagen": "./img/Smartphone_Samsung_Galaxy_A15.jpg",
     "categoria": {
       "id": 1,
       "nombre": "Electrónica",
@@ -30,7 +30,7 @@
     "nombre": "Audífonos Bluetooth JBL",
     "descripcion": "Cancelación de ruido, hasta 30h de batería, carga rápida",
     "precio": 1200.00,
-    "imagen": "",
+    "imagen": "./img/Audífonos_Bluetooth_JBL.jpg",
     "categoria": {
       "id": 2,
       "nombre": "Audio",
@@ -43,7 +43,7 @@
     "nombre": "Smartwatch Xiaomi Mi Band 8",
     "descripcion": "Pantalla AMOLED, resistencia al agua, 10 días de batería",
     "precio": 999.99,
-    "imagen": "",
+    "imagen": "./img/Smartwatch_Xiaomi_Mi_Band_8.jpg",
     "categoria": {
       "id": 3,
       "nombre": "Wearables",
@@ -56,7 +56,7 @@
     "nombre": "Teclado Mecánico RGB Redragon",
     "descripcion": "Switches Outemu Blue, retroiluminación RGB completa",
     "precio": 890.50,
-    "imagen": "",
+    "imagen": "./img/Teclado_Mecanico.jpg",
     "categoria": {
       "id": 4,
       "nombre": "Periféricos",
