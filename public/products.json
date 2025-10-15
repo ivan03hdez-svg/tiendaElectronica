@@ -69,7 +69,7 @@
     "nombre": "Mouse Gamer Logitech G502",
     "descripcion": "Sensor HERO 25K, 11 botones programables, pesos ajustables",
     "precio": 1150.00,
-    "imagen": "./img/",
+    "imagen": "./img/Mouse_Gamer_Logitech_G502.jpg",
     "categoria": {
       "id": 4,
       "nombre": "Periféricos",
@@ -82,7 +82,7 @@
     "nombre": "Monitor LG UltraWide 29''",
     "descripcion": "IPS Full HD 2560x1080, 75Hz, HDR10, FreeSync",
     "precio": 4500.00,
-    "imagen": "./img/",
+    "imagen": "./img/Monitor_LG_UltraWide_29.jpg",
     "categoria": {
       "id": 1,
       "nombre": "Electrónica",
@@ -95,7 +95,7 @@
     "nombre": "Bocina Portátil Sony SRS-XB23",
     "descripcion": "Bluetooth 5.0, resistente al agua IP67, 12h de batería",
     "precio": 1499.00,
-    "imagen": "./img/",
+    "imagen": "./img/Bocina_Portatil_Sony_SRS-XB23.jpg",
     "categoria": {
       "id": 2,
       "nombre": "Audio",
@@ -108,7 +108,7 @@
     "nombre": "Tablet Samsung Galaxy Tab S9",
     "descripcion": "11'' AMOLED, Snapdragon 8 Gen 2, 128GB, S Pen incluido",
     "precio": 9500.00,
-    "imagen": "./img/",
+    "imagen": "./img/Tablet_Samsung_Galaxy_Tab_S9.jpg",
     "categoria": {
       "id": 1,
       "nombre": "Electrónica",
@@ -121,7 +121,7 @@
     "nombre": "Webcam Logitech C920",
     "descripcion": "Full HD 1080p, enfoque automático, micrófono estéreo",
     "precio": 1350.00,
-    "imagen": "./img/",
+    "imagen": "./img/Webcam_Logitech_C920.jpg",
     "categoria": {
       "id": 4,
       "nombre": "Periféricos",
@@ -134,7 +134,7 @@
     "nombre": "Disco Duro Externo Seagate 2TB",
     "descripcion": "USB 3.0, portátil, compatible con PC y Mac",
     "precio": 1250.00,
-    "imagen": "./img/",
+    "imagen": "./img/Disco_Duro_Externo_Seagate_2TB.jpg",
     "categoria": {
       "id": 5,
       "nombre": "Almacenamiento",
@@ -147,7 +147,7 @@
     "nombre": "Cargador Inalámbrico Anker",
     "descripcion": "15W carga rápida, compatible con iPhone y Samsung",
     "precio": 450.00,
-    "imagen": "./img/",
+    "imagen": "./img/Cargador_Inalambrico_Anker.jpg",
     "categoria": {
       "id": 6,
       "nombre": "Accesorios",
