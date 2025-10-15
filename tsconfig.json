@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    /* Directorios */
+    "rootDir": "./src",
+    "outDir": "./public/dist",
+
+    /* Configuración del entorno */
+    "target": "esnext",
+    "module": "esnext",
+
+    /* Opciones recomendadas */
+    "strict": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+
+    /* Mapas y declaraciones */
+    "sourceMap": false,
+    "declaration": false
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

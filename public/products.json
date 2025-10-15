@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP",
+    "descripcion": "Laptop HP 15.6'' Intel Core i5, 8GB RAM, 256GB SSD",
+    "precio": 8000.00,
+    "imagen": "./img/laphp.jpg",
+    "categoria": {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos electrónicos y de cómputo"
+    },
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy A15",
+    "descripcion": "Pantalla AMOLED 6.5'', 128GB ROM, 8GB RAM, Android 14",
+    "precio": 6500.00,
+    "imagen": "",
+    "categoria": {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos electrónicos y de cómputo"
+    },
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Bluetooth JBL",
+    "descripcion": "Cancelación de ruido, hasta 30h de batería, carga rápida",
+    "precio": 1200.00,
+    "imagen": "",
+    "categoria": {
+      "id": 2,
+      "nombre": "Audio",
+      "descripcion": "Accesorios y equipos de sonido"
+    },
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch Xiaomi Mi Band 8",
+    "descripcion": "Pantalla AMOLED, resistencia al agua, 10 días de batería",
+    "precio": 999.99,
+    "imagen": "",
+    "categoria": {
+      "id": 3,
+      "nombre": "Wearables",
+      "descripcion": "Tecnología portátil"
+    },
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico RGB Redragon",
+    "descripcion": "Switches Outemu Blue, retroiluminación RGB completa",
+    "precio": 890.50,
+    "imagen": "",
+    "categoria": {
+      "id": 4,
+      "nombre": "Periféricos",
+      "descripcion": "Accesorios para computadoras"
+    },
+    "stock": 18
+  }
+]

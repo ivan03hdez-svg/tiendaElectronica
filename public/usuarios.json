@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "correo": "ivan@gmail.com",
+      "contrasena": "12345",
+      "fotoPerfil": "img/userDefault.png"
+    },
+    {
+      "id": 1,
+      "correo": "ana@gmail.com",
+      "contrasena": "12345",
+      "fotoPerfil": "img/userDefault.png"
+    }
+  ]
+}
